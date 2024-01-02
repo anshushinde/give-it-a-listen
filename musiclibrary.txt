@@ -1,0 +1,55 @@
+Artist: The Shins
+Album Title: Port of Morrow
+Label: Aural Apothecary, Columbia Records
+Peak Position: 3
+Peak Date: April 7, 2012
+Weeks on Chart: 15
+Review: "low-key loveliness with excitable beauty"
+
+Artist: One Direction
+Album Title: Made in the A.M
+Studio/Label: Syco Columbia
+Peak Position: 2
+Peak date: October 13, 2013
+Weeks on chart: 21
+One line review: "masterpiece of the 2010's"
+
+Artist: Tame Impala
+Album Title: The Slow Rush
+Studio/Label: Interscope Records
+Peak Position on Billboards: 3
+Peak date: February 29, 2020
+Weeks on chart: 6
+One line review: "amazing album to relax to"
+
+Artist: The Neighborhood
+Album Title: Sweater Weather
+Studio/Label: Columbia Records
+Peak Position on Billboards: 14
+Peak date : December 28, 2013
+Weeks on chart: 37
+One line review: "Love their music"
+
+Artist: Artic Monkeys
+Album Title: Do I Wanna Know?
+Studio/Label: Domino Recording Company
+Peak Position on Billboards: 70
+Peak date: March 8, 2014
+Weeks on chart: 20
+One line review: "the songs are so good"
+
+Artist: The Weeknd
+Album Title: Beauty Behind the Madness
+Studio/Label: XO
+Peak Position on Billboards: 1
+Peak date: October 3, 2015
+Weeks on chart: 48
+One line review: "weeknd is superior"
+
+Artist: Tame Impala
+Album Title: Currents
+Studio/Label: XO
+Peak Position on Billboards: 4
+Peak date: August 8, 2015
+Weeks on chart: 78
+One line review: "amazing"
